@@ -1,4 +1,4 @@
-# Secure AWS DevOps Capstone
+# Capstone AWS DevOps Secure
 
 ## Project Title
 
@@ -38,7 +38,7 @@ The first phase includes:
 ## Repository Structure
 
 ```text
-secure-aws-devops-capstone/
+capstone-aws-devops-secure/
 ├── app/
 ├── terraform/
 ├── jenkins/
